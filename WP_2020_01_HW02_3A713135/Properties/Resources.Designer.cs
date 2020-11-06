@@ -73,9 +73,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _10_1 {
+        internal static System.Drawing.Bitmap _10 {
             get {
-                object obj = ResourceManager.GetObject("_10_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_10", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _11_1 {
+        internal static System.Drawing.Bitmap _11 {
             get {
-                object obj = ResourceManager.GetObject("_11_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_11", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _12_1 {
+        internal static System.Drawing.Bitmap _12 {
             get {
-                object obj = ResourceManager.GetObject("_12_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_12", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _13_1 {
+        internal static System.Drawing.Bitmap _13 {
             get {
-                object obj = ResourceManager.GetObject("_13_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_13", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _14_1 {
+        internal static System.Drawing.Bitmap _14 {
             get {
-                object obj = ResourceManager.GetObject("_14_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_14", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -123,9 +123,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _15_1 {
+        internal static System.Drawing.Bitmap _15 {
             get {
-                object obj = ResourceManager.GetObject("_15_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_15", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -133,9 +133,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _16_1 {
+        internal static System.Drawing.Bitmap _16 {
             get {
-                object obj = ResourceManager.GetObject("_16_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_16", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -143,9 +143,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _17_1 {
+        internal static System.Drawing.Bitmap _17 {
             get {
-                object obj = ResourceManager.GetObject("_17_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_17", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,9 +153,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _18_1 {
+        internal static System.Drawing.Bitmap _18 {
             get {
-                object obj = ResourceManager.GetObject("_18_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_18", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -163,9 +163,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _19_1 {
+        internal static System.Drawing.Bitmap _19 {
             get {
-                object obj = ResourceManager.GetObject("_19_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_19", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -173,9 +173,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _2_1 {
+        internal static System.Drawing.Bitmap _2 {
             get {
-                object obj = ResourceManager.GetObject("_2_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -183,9 +183,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _20_1 {
+        internal static System.Drawing.Bitmap _20 {
             get {
-                object obj = ResourceManager.GetObject("_20_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_20", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -193,9 +193,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _21_1 {
+        internal static System.Drawing.Bitmap _21 {
             get {
-                object obj = ResourceManager.GetObject("_21_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_21", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -203,9 +203,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _22_1 {
+        internal static System.Drawing.Bitmap _22 {
             get {
-                object obj = ResourceManager.GetObject("_22_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_22", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -213,9 +213,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _23_1 {
+        internal static System.Drawing.Bitmap _23 {
             get {
-                object obj = ResourceManager.GetObject("_23_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_23", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -223,9 +223,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _24_1 {
+        internal static System.Drawing.Bitmap _24 {
             get {
-                object obj = ResourceManager.GetObject("_24_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_24", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -233,9 +233,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _25_1 {
+        internal static System.Drawing.Bitmap _25 {
             get {
-                object obj = ResourceManager.GetObject("_25_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_25", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -243,9 +243,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _26_1 {
+        internal static System.Drawing.Bitmap _26 {
             get {
-                object obj = ResourceManager.GetObject("_26_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_26", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -253,9 +253,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _27_1 {
+        internal static System.Drawing.Bitmap _27 {
             get {
-                object obj = ResourceManager.GetObject("_27_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_27", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -263,9 +263,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _28_1 {
+        internal static System.Drawing.Bitmap _28 {
             get {
-                object obj = ResourceManager.GetObject("_28_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_28", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -273,9 +273,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _29_1 {
+        internal static System.Drawing.Bitmap _29 {
             get {
-                object obj = ResourceManager.GetObject("_29_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_29", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -283,9 +283,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _3_1 {
+        internal static System.Drawing.Bitmap _3 {
             get {
-                object obj = ResourceManager.GetObject("_3_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -293,9 +293,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _30_1 {
+        internal static System.Drawing.Bitmap _30 {
             get {
-                object obj = ResourceManager.GetObject("_30_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_30", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -303,9 +303,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _31_1 {
+        internal static System.Drawing.Bitmap _31 {
             get {
-                object obj = ResourceManager.GetObject("_31_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_31", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -313,9 +313,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _32_1 {
+        internal static System.Drawing.Bitmap _32 {
             get {
-                object obj = ResourceManager.GetObject("_32_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_32", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -323,9 +323,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _33_1 {
+        internal static System.Drawing.Bitmap _33 {
             get {
-                object obj = ResourceManager.GetObject("_33_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_33", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -333,9 +333,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _34_1 {
+        internal static System.Drawing.Bitmap _34 {
             get {
-                object obj = ResourceManager.GetObject("_34_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_34", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -343,9 +343,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _35_1 {
+        internal static System.Drawing.Bitmap _35 {
             get {
-                object obj = ResourceManager.GetObject("_35_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_35", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -353,9 +353,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _36_1 {
+        internal static System.Drawing.Bitmap _36 {
             get {
-                object obj = ResourceManager.GetObject("_36_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_36", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -363,9 +363,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _37_1 {
+        internal static System.Drawing.Bitmap _37 {
             get {
-                object obj = ResourceManager.GetObject("_37_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_37", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -373,9 +373,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _38_1 {
+        internal static System.Drawing.Bitmap _38 {
             get {
-                object obj = ResourceManager.GetObject("_38_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_38", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -383,9 +383,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _39_1 {
+        internal static System.Drawing.Bitmap _39 {
             get {
-                object obj = ResourceManager.GetObject("_39_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_39", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -393,9 +393,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _4_1 {
+        internal static System.Drawing.Bitmap _4 {
             get {
-                object obj = ResourceManager.GetObject("_4_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -403,9 +403,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _40_1 {
+        internal static System.Drawing.Bitmap _40 {
             get {
-                object obj = ResourceManager.GetObject("_40_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_40", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -413,9 +413,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _41_1 {
+        internal static System.Drawing.Bitmap _41 {
             get {
-                object obj = ResourceManager.GetObject("_41_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_41", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -423,9 +423,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _42_1 {
+        internal static System.Drawing.Bitmap _42 {
             get {
-                object obj = ResourceManager.GetObject("_42_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_42", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -433,9 +433,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _43_1 {
+        internal static System.Drawing.Bitmap _43 {
             get {
-                object obj = ResourceManager.GetObject("_43_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_43", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -443,9 +443,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _44_1 {
+        internal static System.Drawing.Bitmap _44 {
             get {
-                object obj = ResourceManager.GetObject("_44_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_44", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -453,9 +453,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _45_1 {
+        internal static System.Drawing.Bitmap _45 {
             get {
-                object obj = ResourceManager.GetObject("_45_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_45", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -463,9 +463,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _46_1 {
+        internal static System.Drawing.Bitmap _46 {
             get {
-                object obj = ResourceManager.GetObject("_46_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_46", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -473,9 +473,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _47_1 {
+        internal static System.Drawing.Bitmap _47 {
             get {
-                object obj = ResourceManager.GetObject("_47_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_47", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -483,9 +483,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _48_1 {
+        internal static System.Drawing.Bitmap _48 {
             get {
-                object obj = ResourceManager.GetObject("_48_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_48", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -493,9 +493,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _49_1 {
+        internal static System.Drawing.Bitmap _49 {
             get {
-                object obj = ResourceManager.GetObject("_49_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_49", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -503,9 +503,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _5_1 {
+        internal static System.Drawing.Bitmap _5 {
             get {
-                object obj = ResourceManager.GetObject("_5_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -513,9 +513,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _50_1 {
+        internal static System.Drawing.Bitmap _50 {
             get {
-                object obj = ResourceManager.GetObject("_50_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_50", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -523,9 +523,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _51_1 {
+        internal static System.Drawing.Bitmap _51 {
             get {
-                object obj = ResourceManager.GetObject("_51_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_51", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -533,9 +533,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _52_1 {
+        internal static System.Drawing.Bitmap _52 {
             get {
-                object obj = ResourceManager.GetObject("_52_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_52", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -543,9 +543,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _6_1 {
+        internal static System.Drawing.Bitmap _6 {
             get {
-                object obj = ResourceManager.GetObject("_6_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_6", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -553,9 +553,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _7_1 {
+        internal static System.Drawing.Bitmap _7 {
             get {
-                object obj = ResourceManager.GetObject("_7_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_7", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -563,9 +563,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _8_1 {
+        internal static System.Drawing.Bitmap _8 {
             get {
-                object obj = ResourceManager.GetObject("_8_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_8", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -573,9 +573,9 @@ namespace WP_2020_01_HW02_3A713135.Properties {
         /// <summary>
         ///   查詢類型 System.Drawing.Bitmap 的當地語系化資源。
         /// </summary>
-        internal static System.Drawing.Bitmap _9_1 {
+        internal static System.Drawing.Bitmap _9 {
             get {
-                object obj = ResourceManager.GetObject("_9_1", resourceCulture);
+                object obj = ResourceManager.GetObject("_9", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

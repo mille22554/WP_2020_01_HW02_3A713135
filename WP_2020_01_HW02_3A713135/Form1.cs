@@ -46,6 +46,7 @@ namespace WP_2020_01_HW02_3A713135
             Faro(y);
             for (int i = 1; i < 53; i++)
             {
+                pic[i] = Properties.Resources._1;
             }
         }
         
