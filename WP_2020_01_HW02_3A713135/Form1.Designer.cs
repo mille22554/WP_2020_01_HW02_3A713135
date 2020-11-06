@@ -68,6 +68,7 @@
             // 
             // textBox1
             // 
+            this.textBox1.Font = new System.Drawing.Font("微軟正黑體", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.textBox1.Location = new System.Drawing.Point(17, 65);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";

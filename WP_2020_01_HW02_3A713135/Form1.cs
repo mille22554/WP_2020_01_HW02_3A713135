@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Resources;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -16,6 +17,7 @@ namespace WP_2020_01_HW02_3A713135
         string a;
         int[] y = new int[53];
         Image[] pic = new Image[53];
+        ResourceManager rm = new ResourceManager(typeof(WP_2020_01_HW02_3A713135.Properties.Resources));
         Array Faro(int[] yy)
         {
             Random rand = new Random();
@@ -26,6 +28,7 @@ namespace WP_2020_01_HW02_3A713135
                 {
                     while (yy[i] == yy[j])
                     {
+                        j = 1;
                         yy[i] = rand.Next(1, 53);
                     }
                 }
@@ -46,20 +49,36 @@ namespace WP_2020_01_HW02_3A713135
             Faro(y);
             for (int i = 1; i < 53; i++)
             {
-                pic[i] = Properties.Resources._1;
+                pic[i] = rm.GetObject("_"+i) as Image;
             }
         }
         
         private void button1_Click(object sender, EventArgs e)
         {
-            x++;
-            textBox1.Text =textBox1.Text+y[x]+"\r\n";
-            pictureBox1.Image = pic[y[x]];
+            if (x > 51)
+            {
+                MessageBox.Show("已經沒有牌了!","錯誤", MessageBoxButtons.OK);
+            }
+            else { 
+                x++;
+                if (y[x] < 10)
+                {
+                    textBox1.Text = textBox1.Text +"0"+ y[x] + ",";
+                }
+                else
+                {
+                    textBox1.Text = textBox1.Text + y[x] + ",";
+                }
+                pictureBox1.Image = pic[y[x]];
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            x = 0;
+            textBox1.Text = "";
+            Faro(y);
+            pictureBox1.Image = null;
         }
     }
 }
