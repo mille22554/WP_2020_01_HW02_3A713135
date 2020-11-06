@@ -79,63 +79,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="bin\Debug\" />
-    <Folder Include="res\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Resources\1-1.jpg" />
-    <Content Include="Resources\10-1.jpg" />
-    <Content Include="Resources\11-1.jpg" />
-    <Content Include="Resources\12-1.jpg" />
-    <Content Include="Resources\13-1.jpg" />
-    <Content Include="Resources\14-1.jpg" />
-    <Content Include="Resources\15-1.jpg" />
-    <Content Include="Resources\16-1.jpg" />
-    <Content Include="Resources\17-1.jpg" />
-    <Content Include="Resources\18-1.jpg" />
-    <Content Include="Resources\19-1.jpg" />
-    <Content Include="Resources\2-1.jpg" />
-    <Content Include="Resources\20-1.jpg" />
-    <Content Include="Resources\21-1.jpg" />
-    <Content Include="Resources\22-1.jpg" />
-    <Content Include="Resources\23-1.jpg" />
-    <Content Include="Resources\24-1.jpg" />
-    <Content Include="Resources\25-1.jpg" />
-    <Content Include="Resources\26-1.jpg" />
-    <Content Include="Resources\27-1.jpg" />
-    <Content Include="Resources\28-1.jpg" />
-    <Content Include="Resources\29-1.jpg" />
-    <Content Include="Resources\3-1.jpg" />
-    <Content Include="Resources\30-1.jpg" />
-    <Content Include="Resources\31-1.jpg" />
-    <Content Include="Resources\32-1.jpg" />
-    <Content Include="Resources\33-1.jpg" />
-    <Content Include="Resources\34-1.jpg" />
-    <Content Include="Resources\35-1.jpg" />
-    <Content Include="Resources\36-1.jpg" />
-    <Content Include="Resources\37-1.jpg" />
-    <Content Include="Resources\38-1.jpg" />
-    <Content Include="Resources\39-1.jpg" />
-    <Content Include="Resources\4-1.jpg" />
-    <Content Include="Resources\40-1.jpg" />
-    <Content Include="Resources\41-1.jpg" />
-    <Content Include="Resources\42-1.jpg" />
-    <Content Include="Resources\43-1.jpg" />
-    <Content Include="Resources\44-1.jpg" />
-    <Content Include="Resources\45-1.jpg" />
-    <Content Include="Resources\46-1.jpg" />
-    <Content Include="Resources\47-1.jpg" />
-    <Content Include="Resources\48-1.jpg" />
-    <Content Include="Resources\49-1.jpg" />
-    <Content Include="Resources\5-1.jpg" />
-    <Content Include="Resources\50-1.jpg" />
-    <Content Include="Resources\51-1.jpg" />
-    <Content Include="Resources\52-1.jpg" />
-    <Content Include="Resources\6-1.jpg" />
-    <Content Include="Resources\7-1.jpg" />
-    <Content Include="Resources\8-1.jpg" />
-    <Content Include="Resources\9-1.jpg" />
+    <Content Include="設計稿\設計稿.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
